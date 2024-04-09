@@ -1,0 +1,54 @@
+@import url('fonts.googleapis.com/css2?family=Cherry+Cream+Soda&family=Oswald:wght@200..700&display=swap');
+:root{
+  --bg_1: #1487ff;
+  --bg_2: #021f7c71;
+  --bg_botao: #000000;
+  --linha: #ffffff;
+  --bg_3: #7caf87;
+  --color1: #000000;
+
+}
+
+body {
+  background: var(--bg_2);
+  font-family: 'Cherry Cream Soda', sans-serif;
+  text-align: center;
+}
+
+#question1 {
+  
+  color: var(--color1);
+  
+  display: inline-block;
+}
+
+#solution {
+  background:var(--c_gray);
+ 
+  padding: 1rem;
+  margin: 1rem;
+}
+
+span {
+  color:var(--color_03);
+  font-weight: bold;
+}
+
+input {
+  margin: 1rem;
+}
+
+button {
+  padding: 1px;
+  border: 2px;
+  border-radius: 10px;
+  background: var(--bg_botao);
+  color: #ddd;
+  font-weight: bold;
+  margin: 0 auto;
+  cursor: pointer;
+  display: block;
+}
+h1 {
+  border-top: 1px solid var(--linha);
+}
