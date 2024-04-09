@@ -58,10 +58,7 @@ Como você faria para descobrir, usando apenas duas idas até uma das salas das 
 
 *RESPOSTA* 
 
-### testo os 3 interruptores, um de cada vez, quando ligar da sala que estou deixo uma marcação pra sala 1, desligo o interruptor da sala 1, ligo um dos dois sem nomeação, vou até 
-### a sala 2 e vejo se esta ligado a lampada, caso estiver ligado volto para os interruptores e oque estiver acionado nomeio de sala 2, caso não esteja ligada a lampada na sala 2, tambem 
-### nomeio de sala 2, o outro interruptor nomeio de sala 3. 
-
+### ligo o primeiro interruptor por 10 minutos, depois desligo o primeiro interruptor e ligo o segundo interruptor, deixando ligado. Logo vou para uma sala, caso esteja ligada é o segundo interruptor, se estiver desligada e fria é o terceiro interruptor, no caso da lâmpada quente é o primeiro interruptor. 
 
 
 
